@@ -1,7 +1,6 @@
 // ==UserScript==
 // @name         Salesforce Copy
 // @namespace    http://salesforce.com/
-// @version      0.1
 // @description  copy important data out of Salesforce easily
 // @include      /^https?://.*lightning.force\.com/.*$/
 // @author       Gabriel Seltzer
