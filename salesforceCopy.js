@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         New Userscript
+// @name         Salesforce Copy
 // @namespace    http://salesforce.com/
 // @version      0.1
 // @description  copy important data out of Salesforce easily
@@ -7,11 +7,13 @@
 // @author       Gabriel Seltzer
 // @match        https://github.com/desrod/browser-scripts-misc/blob/0ea454c31787774d9cc25b48f259ce1f0f49075e/salesforce-lightning-tweaks.user.js
 // @icon         https://www.google.com/s2/favicons?domain=github.com
-// @version      0.1
+// @updateURL    https://raw.githubusercontent.com/Memnarch1113/salesforceScripts/main/salesforceCopy.js
+// @downloadURL  https://raw.githubusercontent.com/Memnarch1113/salesforceScripts/main/salesforceCopy.js
+// @version      0.2
 // @grant        none
 // ==/UserScript==
 
 (function() {
     'use strict';
-    alert("hello world");
+    //alert("hello world");
 })();
